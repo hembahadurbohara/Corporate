@@ -10,7 +10,7 @@ function Explaination() {
     <div className="row">
       <div className="col-lg-6">
         <div className="te">
-          With a vast network of branches, countless policies issued, and substantial premiums generated, Asian Life Insurance sets the benchmark for industry excellence with a vast network of branches.
+          With a vast network of branches, countless policies issued, and substantial premiums generated, H Life Insurance sets the benchmark for industry excellence with a vast network of branches.
         </div>
       </div>
       <div className="col-lg-6   ">
